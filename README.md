@@ -2,6 +2,8 @@
 
 Given current team affinities across the US, from which counties could new NBA teams in Seattle and Las Vegas expect to attract fans over time? What percentage of the US population could they expect to attract?
 
+![GNN Model Architecture](nba_gnn_architecture.png)
+
 ## Folder Structure
 ```text
 ├── data/               # Source and processed data
