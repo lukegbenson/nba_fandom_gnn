@@ -10,6 +10,7 @@ Given current team affinities across the US, from which counties could new NBA t
 ├── data_processing/    # Data processing and engineering notebooks
 ├── gnn_noteboook       # Full GNN modeling
 └── README.md
+```
 
 ## Setup
 
