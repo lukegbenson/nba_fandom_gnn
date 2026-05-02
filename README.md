@@ -10,3 +10,17 @@ Given current team affinities across the US, from which counties could new NBA t
 ├── data_processing/    # Data processing and engineering notebooks
 ├── gnn_noteboook       # Full GNN modeling
 └── README.md
+
+## Setup
+
+1. Install CPU-only PyTorch first (faster, no GPU dependencies):
+
+```bash
+   pip install torch==2.11.0 --index-url https://download.pytorch.org/whl/cpu
+```
+
+2. Install remaining dependencies:
+
+```bash
+   pip install -r requirements.txt
+```
